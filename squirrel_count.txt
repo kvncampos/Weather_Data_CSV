@@ -1,0 +1,5 @@
+The Total Squirrels were:
+Primary Fur Color
+Black        103
+Cinnamon     392
+Gray        2473

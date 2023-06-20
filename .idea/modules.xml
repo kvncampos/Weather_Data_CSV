@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Weather_Data_CSV/.idea/Weather_Data_CSV.iml" filepath="$PROJECT_DIR$/../Weather_Data_CSV/.idea/Weather_Data_CSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Weather_Data_CSV/.idea/Reading_Data_CSV.iml" filepath="$PROJECT_DIR$/../Weather_Data_CSV/.idea/Reading_Data_CSV.iml" />
     </modules>
   </component>
 </project>
